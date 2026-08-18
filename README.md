@@ -1,4 +1,4 @@
-# Mock FDE Takehome — CRM Sync (Backend Track)
+# CRM Sync (Backend Track)
 
 This is a **practice mock**, built to mirror the shape of the Rox FDE
 backend takehome (Python / FastAPI / SQLite, legacy CRM → platform sync,
